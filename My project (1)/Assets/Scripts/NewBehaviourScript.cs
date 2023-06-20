@@ -17,6 +17,7 @@ public class NewBehaviourScript : MonoBehaviour
         // если это необходимо.
 
         animator.SetTrigger("TriggerName");
+
     }
 }
 
